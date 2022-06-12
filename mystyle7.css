@@ -1,0 +1,97 @@
+@charset "utf-8";
+header {
+    width: 100%;
+    height: 600px;
+    background-image: url(web%20fashion35.jpg);
+    background-size: cover;
+}
+.container1 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.box1 {
+    height: 455px;
+    display: flex;
+    margin-top: 10px;
+    margin-right: 10px;
+    margin-bottom: 10px;
+    margin-left: 10px;
+    flex: 1;
+    justify-content: center;
+    align-items: center;
+}
+.box2 {
+    height: 300px;
+    display: flex;
+    margin-top: 30px;
+    margin-right: 30px;
+    margin-bottom: 30px;
+    margin-left: 30px;
+    font-size: 20px;
+    flex: 1;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    background-color: #FEC5C6;
+}
+.container2 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.box3 {
+    height: 300px;
+    display: flex;
+    margin-top: 30px;
+    margin-right: 30px;
+    margin-bottom: 30px;
+    margin-left: 30px;
+    font-size: 20px;
+    flex: 1;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    background-color: #FFD5B2;
+    color: #000000;
+}
+.box4 {
+    height: 455px;
+    display: flex;
+    margin-top: 10px;
+    margin-right: 10px;
+    margin-bottom: 10px;
+    margin-left: 10px;
+    flex: 1;
+    justify-content: center;
+    align-items: center;
+}
+.container3 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.box5 {
+    height: 455px;
+    display: flex;
+    margin-top: 10px;
+    margin-right: 10px;
+    margin-bottom: 10px;
+    margin-left: 10px;
+    flex: 1;
+    justify-content: center;
+    align-items: center;
+}
+.box6 {
+    height: 300px;
+    display: flex;
+    margin-top: 30px;
+    margin-right: 30px;
+    margin-bottom: 30px;
+    margin-left: 30px;
+    font-size: 20px;
+    flex: 1;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
